@@ -20,14 +20,14 @@
 <a href="https://dribbble.com/krazypsp" target="blank"><img align="center" src="https://i.ibb.co/0sP49PL/dribble.png" alt="krazypsp" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu-dholu" target="blank"><img align="center" src="https://i.ibb.co/qsLdBCV/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" alt="priyanshu-dholu" height="40" width="40" /></a>
 <a href="https://medium.com/@krazypriyanshu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@krazypriyanshu" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/priyanshupatel" target="blank"><img align="center" src="https://i.ibb.co/K24gMfr/HR.png" alt="priyanshupatel" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/priyanshupatel" target="blank"><img align="center" src="https://i.ibb.co/RPSxhJ0/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-96.png" alt="priyanshupatel" height="40" width="40" /></a>
 
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://i.ibb.co/MB8pm9t/cplusplus.png" alt="C++" width="40" height="40"/>
-<img src="https://i.ibb.co/VNmBv12/python.png" alt="Python" width="40" height="40"/>
+<img src="https://i.ibb.co/W034YBs/icons8-python-480.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/GpBCNdM/java.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/c3YkPQP/javascript.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/fH57JBq/icons8-dart-240.png" alt="Dart" width="40" height="40"/>
