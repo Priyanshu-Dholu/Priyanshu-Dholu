@@ -17,9 +17,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-patel-7a4842204" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priyanshu-patel-7a4842204" height="40" width="40" /></a>
 <a href="mailto:patelpriyanshu648@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="krazypsp"  height="40" width="40" /></a>
+<a href="https://t.me/KrazyPriyanshu" target="blank"><img align="center" src="https://i.ibb.co/K2nyPZ2/icons8-telegram-app-96.png" alt="KrazyPriyanshu" height="40" width="40" /></a>
 <a href="https://dribbble.com/krazypsp" target="blank"><img align="center" src="https://i.ibb.co/0sP49PL/dribble.png" alt="krazypsp" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu-dholu" target="blank"><img align="center" src="https://i.ibb.co/qsLdBCV/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" alt="priyanshu-dholu" height="40" width="40" /></a>
-<a href="https://medium.com/@krazypriyanshu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@krazypriyanshu" height="40" width="40" /></a>
+<a href="https://medium.com/@krazypriyanshu" target="blank"><img align="center" src="https://i.ibb.co/3WMvLmK/icons8-medium-96.png" alt="@krazypriyanshu" height="40" width="40" /></a>
 <a href="https://www.hackerrank.com/priyanshupatel" target="blank"><img align="center" src="https://i.ibb.co/RPSxhJ0/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-96.png" alt="priyanshupatel" height="40" width="40" /></a>
 
 </p>
@@ -36,26 +37,31 @@
 
 
 <h3 align="left">Frameworks:</h3>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/q7wkZ2C/icons8-django-256.png" alt="django" width="40" height="40"/>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/fthkZNH/icons8-flutter-310.png" alt="flutter" width="40" height="40"/>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/zFcNGHn/ezgif-5-88a5b3a2f4.png" alt="chartjs" width="40" height="40"/>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/X8j5xvS/icons8-net-framework-240.png" alt="dotnet" width="40" height="40"/> </a> 
-
+<p align="left">
+<img src="https://i.ibb.co/q7wkZ2C/icons8-django-256.png" alt="django" width="40" height="40"/>
+<img src="https://i.ibb.co/fthkZNH/icons8-flutter-310.png" alt="flutter" width="40" height="40"/>
+<img src="https://i.ibb.co/zFcNGHn/ezgif-5-88a5b3a2f4.png" alt="chartjs" width="40" height="40"/>
+<img src="https://i.ibb.co/X8j5xvS/icons8-net-framework-240.png" alt="dotnet" width="40" height="40"/> </a> 
+</p>
 <h3 align="left">Tools:</h3>
- </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/Nm4tgcs/icons8-google-cloud-310-1.png" alt="gcp" width="40" height="40"/> </a>
- </a> <a href="https://netlify.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/5xSc5TC/icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-sta.png" alt="netlify" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/HnPWD1S/icons8-git-480.png" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/w6LhXqr/icons8-amazon-web-services-480.png" alt="aws" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> </a>
-<a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/y65gM0j/icons8-zapier-an-american-corporation-allows-to-integrate-the-web-applications-96.png" alt="zapier" width="40" height="40"/> </a>
-<a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/k8SX0j0/icons8-ifttt-480.png" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer">
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/WsBk39q/icons8-linux-96.png" alt="linux" width="40" height="40"/> </a>
+<p align="left">
+<img src="https://i.ibb.co/Nm4tgcs/icons8-google-cloud-310-1.png" alt="gcp" width="40" height="40"/> 
+<img src="https://i.ibb.co/5xSc5TC/icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-sta.png" alt="netlify" width="40" height="40"/> 
+<img src="https://i.ibb.co/HnPWD1S/icons8-git-480.png" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+<img src="https://i.ibb.co/w6LhXqr/icons8-amazon-web-services-480.png" alt="aws" width="40" height="40"/> </a>
+<img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/>
+<img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> 
+<img src="https://i.ibb.co/y65gM0j/icons8-zapier-an-american-corporation-allows-to-integrate-the-web-applications-96.png" alt="zapier" width="40" height="40"/> 
+<img src="https://i.ibb.co/k8SX0j0/icons8-ifttt-480.png" alt="ifttt" width="40" height="40"/>
+<img src="https://i.ibb.co/WsBk39q/icons8-linux-96.png" alt="linux" width="40" height="40"/>
+</p>
 
 <h3 align="left" >Databases:</h3>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/VV0tPbF/icons8-postgresql-480.png" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/PtDNskv/icons8-mysql-logo-480.png" alt="mysql" width="40" height="40"/> </a>
+<p align="left">
+<img src="https://i.ibb.co/VV0tPbF/icons8-postgresql-480.png" alt="postgresql" width="40" height="40"/> 
+<img src="https://i.ibb.co/PtDNskv/icons8-mysql-logo-480.png" alt="mysql" width="40" height="40"/>
+</p>
 
 &nbsp;
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu-dholu&show_icons=true&theme=merko&locale=en&layout=compact" alt="priyanshu-dholu" /></p>
