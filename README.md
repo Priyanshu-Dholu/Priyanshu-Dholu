@@ -7,15 +7,9 @@
 
 - 🌱 I’m currently learning **Flutter, Django**
 
-- 👯 I’m looking to collaborate on **Currently Nothing 😅**
-
-- 🤝 I’m looking for help with **Currently Nothing 😅**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-Dholu](https://github.com/Priyanshu-Dholu)
 
 - 💬 Ask me about **AI's & ML**
-
-- 📫 How to reach me **dev.egrimony@8shield.net**
 
 - ⚡ Fun fact **You Have Already Tried ChatGPT**
 
@@ -23,7 +17,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/priyanshu-patel-7a4842204" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priyanshu-patel-7a4842204" height="40" width="40" /></a>
 <a href="mailto:patelpriyanshu648@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="krazypsp"  height="40" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/18799665/krazypriyanshu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-tile.svg" alt="https://stackoverflow.com/users/18799665/krazypriyanshu" height="40" width="40" /></a>
 <a href="https://dribbble.com/krazypsp" target="blank"><img align="center" src="https://i.ibb.co/0sP49PL/dribble.png" alt="krazypsp" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu-dholu" target="blank"><img align="center" src="https://i.ibb.co/qsLdBCV/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" alt="priyanshu-dholu" height="40" width="40" /></a>
 <a href="https://medium.com/@krazypriyanshu" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="@krazypriyanshu" height="40" width="40" /></a>
