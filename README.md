@@ -46,14 +46,14 @@
 <h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://i.ibb.co/Nm4tgcs/icons8-google-cloud-310-1.png" alt="gcp" width="40" height="40"/> 
-<img src="https://i.ibb.co/5xSc5TC/icons8-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-sta.png" alt="netlify" width="40" height="40"/> 
+<img src="https://i.ibb.co/Z1JNVtM/Netlify.png" alt="netlify" width="40" height="40"/> 
 <img src="https://i.ibb.co/HnPWD1S/icons8-git-480.png" alt="git" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-<img src="https://i.ibb.co/w6LhXqr/icons8-amazon-web-services-480.png" alt="aws" width="40" height="40"/> </a>
+<img src="https://i.ibb.co/98zxYWv/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/>
 <img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> 
-<img src="https://i.ibb.co/y65gM0j/icons8-zapier-an-american-corporation-allows-to-integrate-the-web-applications-96.png" alt="zapier" width="40" height="40"/> 
-<img src="https://i.ibb.co/VSNSSKR/Twilio.png" alt="Twilio" width="40" height="40"/>
+<img src="https://i.ibb.co/G3YLMCb/Zapier.png" alt="zapier" width="40" height="40"/> 
+<img src="https://i.ibb.co/cgTkTzM/twilio.png" alt="Twilio" width="40" height="40"/>
 <img src="https://i.ibb.co/WsBk39q/icons8-linux-96.png" alt="linux" width="40" height="40"/>
 </p>
 
