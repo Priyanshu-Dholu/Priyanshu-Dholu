@@ -53,7 +53,7 @@
 <img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/>
 <img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> 
 <img src="https://i.ibb.co/y65gM0j/icons8-zapier-an-american-corporation-allows-to-integrate-the-web-applications-96.png" alt="zapier" width="40" height="40"/> 
-<img src="https://i.ibb.co/k8SX0j0/icons8-ifttt-480.png" alt="ifttt" width="40" height="40"/>
+<img src="https://i.ibb.co/VSNSSKR/Twilio.png" alt="Twilio" width="40" height="40"/>
 <img src="https://i.ibb.co/WsBk39q/icons8-linux-96.png" alt="linux" width="40" height="40"/>
 </p>
 
