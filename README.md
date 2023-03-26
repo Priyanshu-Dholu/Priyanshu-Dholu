@@ -32,13 +32,13 @@
 <img src="https://i.ibb.co/GpBCNdM/java.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/c3YkPQP/javascript.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/fH57JBq/icons8-dart-240.png" alt="Dart" width="40" height="40"/>
-<img src="https://i.ibb.co/KN0STCK/icons8-vue-js-240.png" alt="VueJS" width="40" height="40"/>
 </p>
 
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
 <img src="https://i.ibb.co/q7wkZ2C/icons8-django-256.png" alt="django" width="40" height="40"/>
+<img src="https://i.ibb.co/KN0STCK/icons8-vue-js-240.png" alt="VueJS" width="40" height="40"/>
 <img src="https://i.ibb.co/fthkZNH/icons8-flutter-310.png" alt="flutter" width="40" height="40"/>
 <img src="https://i.ibb.co/zFcNGHn/ezgif-5-88a5b3a2f4.png" alt="chartjs" width="40" height="40"/>
 <img src="https://i.ibb.co/X8j5xvS/icons8-net-framework-240.png" alt="dotnet" width="40" height="40"/> </a> 
