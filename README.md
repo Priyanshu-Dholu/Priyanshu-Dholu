@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-dholu&label=Visitors &color=f3bc79&style=flat" alt="priyanshu-dholu" /> </p>
 
-- 🔭 I’m currently working on **Granthi (College Project)**
-
 - 🌱 I’m currently learning **Flutter, Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-Dholu](https://github.com/Priyanshu-Dholu)
 
 - 💬 Ask me about **AI's & ML**
 
-- ⚡ Fun fact **You Have Already Tried ChatGPT**
+- ⚡ Looking Forward to collaborate on **Interesting Projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
