@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">Hello 🌏, I'am Priyanshu & I Love 👩‍💻 Stuff</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu-dholu&label=Visitors &color=f3bc79&style=flat" alt="priyanshu-dholu" /> </p>
+<p align="left"> <img src="https://badges.pufler.dev/visits/Priyanshu-Dholu/Priyanshu-Dholu &color=f3bc79&style=flat" alt="priyanshu-dholu" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Django**
 
@@ -28,8 +28,7 @@
 <img src="https://i.ibb.co/MB8pm9t/cplusplus.png" alt="C++" width="40" height="40"/>
 <img src="https://i.ibb.co/W034YBs/icons8-python-480.png" alt="Python" width="40" height="40"/>
 <img src="https://i.ibb.co/GpBCNdM/java.png" alt="Python" width="40" height="40"/>
-<img src="https://i.ibb.co/c3YkPQP/javascript.png" alt="Python" width="40" height="40"/>
-<img src="https://i.ibb.co/fH57JBq/icons8-dart-240.png" alt="Dart" width="40" height="40"/>
+<img src="https://i.ibb.co/c3YkPQP/javascript.png" alt="JavaScript" width="40" height="40"/>
 </p>
 
 
@@ -39,20 +38,17 @@
 <img src="https://i.ibb.co/KN0STCK/icons8-vue-js-240.png" alt="VueJS" width="40" height="40"/>
 <img src="https://i.ibb.co/fthkZNH/icons8-flutter-310.png" alt="flutter" width="40" height="40"/>
 <img src="https://i.ibb.co/zFcNGHn/ezgif-5-88a5b3a2f4.png" alt="chartjs" width="40" height="40"/>
-<img src="https://i.ibb.co/X8j5xvS/icons8-net-framework-240.png" alt="dotnet" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">Tools:</h3>
 <p align="left">
 <img src="https://i.ibb.co/Nm4tgcs/icons8-google-cloud-310-1.png" alt="gcp" width="40" height="40"/> 
 <img src="https://i.ibb.co/Z1JNVtM/Netlify.png" alt="netlify" width="40" height="40"/> 
 <img src="https://i.ibb.co/HnPWD1S/icons8-git-480.png" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
 <img src="https://i.ibb.co/98zxYWv/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/>
 <img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> 
 <img src="https://i.ibb.co/G3YLMCb/Zapier.png" alt="zapier" width="40" height="40"/> 
 <img src="https://i.ibb.co/cgTkTzM/twilio.png" alt="Twilio" width="40" height="40"/>
-<img src="https://i.ibb.co/WsBk39q/icons8-linux-96.png" alt="linux" width="40" height="40"/>
 </p>
 
 <h3 align="left" >Databases:</h3>
