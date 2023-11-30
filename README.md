@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu</h1>
 <h3 align="center">Hello 🌏, I'am Priyanshu & I Love 👩‍💻 Stuff</h3>
 
-<p align="left"> <img src="https://badges.pufler.dev/visits/Priyanshu-Dholu/Priyanshu-Dholu &color=f3bc79&style=flat" alt="priyanshu-dholu" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-Dholu&color=ff5f37&style=for-the-badge&label=Hi+User" width=110>
 
 - 🌱 I’m currently learning **Flutter, Django**
 
