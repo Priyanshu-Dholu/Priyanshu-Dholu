@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Priyanshu-Dholu](https://github.com/Priyanshu-Dholu)
-
-- 💬 Ask me about **AI's & ML**
+- 🔎 Interested In **AI's & ML**
 
 - ⚡ Looking Forward to collaborate on **Interesting Projects!**
 
