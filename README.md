@@ -14,11 +14,7 @@
 <a href="https://linkedin.com/in/priyanshu-patel-7a4842204" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="priyanshu-patel-7a4842204" height="40" width="40" /></a>
 <a href="mailto:patelpriyanshu648@gmail.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="krazypsp"  height="40" width="40" /></a>
 <a href="https://t.me/KrazyPriyanshu" target="blank"><img align="center" src="https://i.ibb.co/K2nyPZ2/icons8-telegram-app-96.png" alt="KrazyPriyanshu" height="40" width="40" /></a>
-<a href="https://dribbble.com/krazypsp" target="blank"><img align="center" src="https://i.ibb.co/0sP49PL/dribble.png" alt="krazypsp" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/priyanshu-dholu" target="blank"><img align="center" src="https://i.ibb.co/qsLdBCV/icons8-level-up-your-coding-skills-and-quickly-land-a-job-96.png" alt="priyanshu-dholu" height="40" width="40" /></a>
-<a href="https://medium.com/@krazypriyanshu" target="blank"><img align="center" src="https://i.ibb.co/3WMvLmK/icons8-medium-96.png" alt="@krazypriyanshu" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/priyanshupatel" target="blank"><img align="center" src="https://i.ibb.co/RPSxhJ0/icons8-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-96.png" alt="priyanshupatel" height="40" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages:</h3>
