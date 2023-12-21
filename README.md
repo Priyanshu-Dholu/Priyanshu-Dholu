@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-Dholu&color=ff5f37&style=for-the-badge&label=Hi+User" width=110>
 
-- 🌱 I’m currently learning **Flutter, Django**
+- 🌱 I’m currently learning a lot!
 
 - 🔎 Interested In **AI's & ML**
 
