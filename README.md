@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning a lot!
 
-- 🔎 Interested In **AI's & ML**
+- 🔎 Interested In **AI's & ML** RN
 
 - ⚡ Looking Forward to collaborate on **Interesting Projects!**
 
