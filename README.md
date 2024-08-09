@@ -40,14 +40,11 @@
 <img src="https://i.ibb.co/HnPWD1S/icons8-git-480.png" alt="git" width="40" height="40"/>
 <img src="https://i.ibb.co/98zxYWv/aws.png" alt="aws" width="40" height="40"/>
 <img src="https://i.ibb.co/FH3xpWC/icons8-figma-310.png" alt="figma" width="40" height="40"/>
-<img src="https://i.ibb.co/SrxGf6M/icons8-firebase-480.png" alt="firebase" width="40" height="40"/> 
 <img src="https://i.ibb.co/G3YLMCb/Zapier.png" alt="zapier" width="40" height="40"/> 
-<img src="https://i.ibb.co/cgTkTzM/twilio.png" alt="Twilio" width="40" height="40"/>
 </p>
 
 <h3 align="left" >Databases:</h3>
 <p align="left">
-<img src="https://i.ibb.co/VV0tPbF/icons8-postgresql-480.png" alt="postgresql" width="40" height="40"/> 
 <img src="https://i.ibb.co/PtDNskv/icons8-mysql-logo-480.png" alt="mysql" width="40" height="40"/>
 </p>
 
